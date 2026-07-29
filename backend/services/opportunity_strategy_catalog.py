@@ -15,6 +15,7 @@ from models.database import Strategy
 from services.strategy_sdk import StrategySDK
 from services.strategies.news_edge import news_edge_config_schema
 from services.strategies.traders_copy_trade import traders_copy_trade_config_schema
+from services.strategies.political_lead_lag import political_lead_lag_config_schema
 from utils.logger import get_logger
 from utils.utcnow import utcnow
 
@@ -1478,6 +1479,17 @@ SYSTEM_OPPORTUNITY_STRATEGY_SEEDS: list[SystemOpportunityStrategySeed] = [
         config_schema={
             "param_fields": [
                 *traders_copy_trade_config_schema().get("param_fields", []),
+            ]
+        },
+    ),
+    SystemOpportunityStrategySeed(
+        slug="political_lead_lag",
+        source_key="traders",
+        import_module="services.strategies.political_lead_lag",
+        sort_order=212,
+        config_schema={
+            "param_fields": [
+                *political_lead_lag_config_schema().get("param_fields", []),
             ]
         },
     ),
