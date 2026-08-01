@@ -1,0 +1,121 @@
+#kind: smart_money
+聪明钱交易提醒
+
+地址：0x448861...99e319（Flipadelphia）
+
+交易：Generali公开赛：丹尼尔·奥特迈尔 对阵 拉斐尔·科利尼翁 | 方向：Raphael Collignon | 动作：买入 | 均价：61.0¢ | 金额：$797.75
+
+本市场当前持仓：2,494.69 shares | 估值 $1,534.24
+
+其他持仓：4 个， 合计约 $201,653 | Will Trump be in ...(Yes) $199,500 | Will Al Lawson wi...(No) $1,741 | Will Abdul El-Say...(Yes) $361
+
+介绍：15天盈利 101647 美元；平均仓位 225 美元
+
+观察：稳健盈利榜地址，以61美分买入Raphael Collignon，持仓集中度高。；大额买入推高盘口，当前持仓估值约1534美元，可能影响市场情绪。
+
+时间：2026-07-21 14:39:55 北京时间
+
+Profile：
+https://polymarket.com/profile/0x448861155279dbf833d041b963e3ac854599e319
+
+---
+#kind: smart_money
+聪明钱交易提醒
+
+地址：0x82d2e4...48beea（Generous-Anticodon）
+
+交易：反恐精英：CYBERSHOKE Prospects 对阵 G2 Ares - 地图1胜者 | 方向：CYBERSHOKE Prospects | 动作：买入 | 均价：55.0¢ | 金额：$825.00
+
+本市场当前持仓：1,500.00 shares | 估值 $832.50
+
+其他持仓：无
+
+介绍：15天盈利 32713 美元；平均仓位 163 美元
+
+观察：稳健盈利榜地址，以825美元买入CYBERSHOKE，均价55美分，持仓增至1500股。；大额买入推高持仓估值至832美元，显示对CYBERSHOKE胜出的信心增强。
+
+时间：2026-07-21 16:27:22 北京时间
+
+Profile：
+https://polymarket.com/profile/0x82d2e4dbb0a849ff8e2f538071976a3c4f9c48beea
+
+---
+#kind: large_buy
+🌊 全市场大额成交
+👤 地址：0x7b02b2...2a4991（foodenjoyer）
+🎯 交易：2026年9月会议后美联储利率不变？ | 分类：其他 | 方向：否 | 动作：买入 | 均价：57.7¢ | 金额：$359,831.32
+🧠 背景：2026年9月美联储议息会议后，市场关注美联储是否维持利率不变。当前盘口定价显示"利率不变"的概率约为44%，累计成交额约137万美元。
+📦 成交数量：623,749.78 shares
+⏰ 时间：2026-07-30 13:47:06 北京时间
+🔗 市场链接：https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615
+
+---
+#kind: large_buy
+🌊 全市场大额成交
+👤 地址：0x35bbba...22009b（MisTKy）
+🎯 交易：美国会在2027年前入侵伊朗吗？ | 分类：其他 | 方向：否 | 动作：买入 | 均价：73.0¢ | 金额：$60,305.40
+🧠 背景：该盘口判定美国是否会在2026年12月31日前对伊朗发动旨在建立控制权的军事进攻。
+📦 成交数量：82,610.14 shares
+⏰ 时间：2026-07-30 14:19:36 北京时间
+🔗 市场链接：https://polymarket.com/event/will-the-us-invade-iran-before-2027
+
+---
+#kind: worldcup
+PA Beacon 世界杯资金观察
+大额买入信号
+金额：$278.11K
+比赛：world-cup-final-uptspt-viewership-20260717004559442
+盘口：Will U.S. viewership of the 2026 FIFA World Cup Final be between 46 million and 50 million?
+买入方向：Yes
+均价：0.9990 | 份额：278,390.00
+账户：0x8931...f3a90c
+时间：2026-07-24 10:53:16 北京时间
+市场链接：https://polymarket.com/event/will-uptspt-viewership-of-the-2026-fifa-world-cup-final-be-between-46-million-and-50-million-20260717004559448
+口径：仅统计 Polymarket 世界杯盘口中单笔聚合金额不低于 $5.00K 的 BUY 交易。
+
+---
+#kind: worldcup
+PA Beacon 世界杯资金观察
+大额买入信号
+金额：$36.44K
+比赛：world-cup-final-uptspt-viewership-20260717004559442
+盘口：Will U.S. viewership of the 2026 FIFA World Cup Final be between 46 million and 50 million?
+买入方向：Yes
+均价：0.9990 | 份额：36,474.41
+账户：bahibahibahi / 0xdff17...8697d1
+时间：2026-07-24 12:30:33 北京时间
+市场链接：https://polymarket.com/event/will-uptspt-viewership-of-the-2026-fifa-world-cup-final
+
+---
+#kind: leaderboard
+稳健盈利榜 时间：2026-04-30 20:58:32 UTC
+1. ProfitMuhammedPBUH 0xae7c98...a4487e 盈利 +71,969.72 美元 | 收益率 +32.40% | 胜率 66.4% 平均仓位 0 美元 Polymarket 链接
+2. sp3ectre 0xa1e49d...cc4f8a 盈利 +41,701.50 美元 | 收益率 +12.10% | 胜率 61.0% 平均仓位 88 美元 Polymarket 链接
+4. AppleTime67
+0xacb206...7eb989
+盈利 +84,335.89 美元 | 收益率 +9.76% | 胜率 78.7%
+平均仓位 140 美元
+Polymarket 链接
+5. 0x2c335066FE58fe9237c3d3Dc7b275C2a034a0563-1759935795465
+0x2c3350...4a0563
+盈利 +803,214.14 美元 | 收益率 +9.62% | 胜率 78.5%
+平均仓位 1,631 美元
+Polymarket 链接
+6. 08AF
+0x49007e...194a72
+盈利 +66,409.54 美元 | 收益率 +2.77% | 胜率 77.0%
+平均仓位 1,796 美元
+Polymarket 链接
+7. trgparking
+0xe3611d...48ae44
+盈利 +74,501.47 美元 | 收益率 +7.83% | 胜率 76.8%
+平均仓位 177 美元
+Polymarket 链接
+10. DualDelta
+0x154335...f8baaf
+盈利 +37,415.51 美元 | 收益率 +19.28% | 胜率 71.6%
+
+平均仓位 134 美元
+Polymarket 链接
+https://polymarket.com/profile/0xacb2061234567890abcdef1234567890ab7eb989
+https://polymarket.com/profile/0xe3611d00000000000000000000000000ee48ae44
